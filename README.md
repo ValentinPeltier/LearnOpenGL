@@ -1,3 +1,3 @@
-# opengl-tutorial
+# LearnOpenGL
 
-Suivi de mon (ré)apprentissage de OpenGL grâce au tutoriel de [https://learnopengl.com](https://learnopengl.com).
+Learning of OpenGL with to the tutorial of [https://learnopengl.com](https://learnopengl.com).
